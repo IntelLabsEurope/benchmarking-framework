@@ -1,2 +1,3 @@
 # benchmarking-framework
-Tool for benchmarking of VNFs on OpenStack environments
+The benchmarking framework is a framework that allows automatic execution of
+experiments and related data collection with VNFs within an OpenStack environment.
